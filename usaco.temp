@@ -1,0 +1,16 @@
+#include <iostream>
+#include <vector>
+#include <map>
+#include <set>
+#include <algorithm>
+#include <cstring>
+#include <cstdlib>
+#include <cstdio>
+using namespace std;
+
+int main()
+{
+    freopen("%s.in", "r", stdin);
+    freopen("%s.out", "w", stdout);
+    return 0;
+}
