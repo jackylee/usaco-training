@@ -9,3 +9,4 @@ RM=rm -f
 .PHONY:
 clean:
 	$(RM)  %s
+	$(RM) *.in *.out
